@@ -13,4 +13,4 @@ chmod +x admin-finder.sh
 ```
 
 # artikel
-![msverse.site](https://www.msverse.site) 
+[msverse.site](https://www.msverse.site) 
